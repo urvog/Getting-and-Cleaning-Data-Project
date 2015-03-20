@@ -21,7 +21,7 @@ How To on this course project.
   UCI HAR Dataset/
   
 
-4. Run source("run_analysis.R"), it will generate a new file called "tinyData.txt" in your workin directory.
+4. Run source("run_analysis.R"), it will generate a new file called "tinyData.txt" in your working directory.
 
 ## Dependencies
 data.table

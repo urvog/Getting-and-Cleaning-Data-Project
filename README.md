@@ -25,4 +25,4 @@ How To on this course project.
 is the output of the 5th step.
 
 ## Dependencies
-data.table
+data.table, plyr

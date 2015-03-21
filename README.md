@@ -15,10 +15,10 @@ How To on this course project.
 1. On RStudio create a new project.
 2. Download data source from: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2. Unzip file, this will create a folder "UCI HAR Dataset/" which contain all datasets.
-3. Download "run_analysis.R" on parent folder, structure files should be like this:
+3. Download "run_analysis.R" on parent folder, structure root folder should be like this:
 
-  run_analysis.R
-  UCI HAR Dataset/
+  -run_analysis.R
+  -UCI HAR Dataset/
   
 
 4. Run source("run_analysis.R"), it will generate a new file called "average_data.txt" in your working directory. This file

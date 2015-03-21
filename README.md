@@ -21,7 +21,8 @@ How To on this course project.
   UCI HAR Dataset/
   
 
-4. Run source("run_analysis.R"), it will generate a new file called "tinyData.txt" in your working directory.
+4. Run source("run_analysis.R"), it will generate a new file called "average_data.txt" in your working directory. This file
+is the output of the 5th step.
 
 ## Dependencies
 data.table
